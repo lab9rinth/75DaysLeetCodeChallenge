@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -19,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
