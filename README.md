@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
@@ -245,5 +247,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
