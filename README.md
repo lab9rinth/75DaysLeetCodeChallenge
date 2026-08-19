@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Counting
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+| [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
