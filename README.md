@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [2574-left-and-right-sum-differences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
