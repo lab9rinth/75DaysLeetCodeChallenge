@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
