@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
