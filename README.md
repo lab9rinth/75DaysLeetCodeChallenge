@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
@@ -262,9 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 ## Database
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1757-recyclable-and-low-fat-products](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
