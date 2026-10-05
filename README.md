@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/lab9rinth/75DaysLeetCodeChallenge/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
